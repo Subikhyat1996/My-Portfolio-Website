@@ -1,3 +1,5 @@
+import { link } from "framer-motion/client";
+
 export const portfolioData = {
   name: "Subikhyat Sourav",
   cv: "2026JANSUBIKHYAT.docx", // Place your CV DOCX in the public folder
