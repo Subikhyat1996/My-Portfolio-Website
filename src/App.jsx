@@ -7,6 +7,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import CVPreview from './components/CVPreview';
+import TTSWelcome from './components/TTSWelcome';
 import { portfolioData } from './data/portfolioData';
 
 // Create context for CV preview
@@ -44,6 +45,7 @@ function App() {
           isOpen={showCVPreview} 
           onClose={closeCVPreview} 
         />
+        <TTSWelcome />
       </div>
     </CVPreviewContext.Provider>
   );
