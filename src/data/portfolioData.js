@@ -6,7 +6,7 @@ export const portfolioData = {
   tagline: "Crafting Digital Experiences with Precision and Passion",
   bio: "I'm a full-stack developer with a keen eye for design and a passion for building intuitive, high-performance web applications. With expertise in modern JavaScript frameworks, backend technologies, and cloud platforms, I transform complex ideas into elegant, scalable solutions. My goal is to create impactful digital products that not only look stunning but also deliver exceptional user experiences.",
   githubUsername: "Subikhyat1996", // Your GitHub username
-  backgroundImage: "https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&dpr=2", // Change this to your preferred background
+  backgroundImage: "https://images.unsplash.com/photo-1557683316-973673baf926?w=1920&h=1080&fit=crop&q=80", // Abstract gradient
   welcomeScript: "Welcome to my portfolio! I'm Subikhyat Sourav, a passionate full-stack developer specializing in creating modern web applications. I build scalable solutions using React, Next.js, Node.js, and cloud technologies. Explore my projects to see how I transform ideas into elegant digital experiences. Feel free to reach out if you'd like to collaborate!",
   skills: [
     { name: "React.js", icon: "https://img.icons8.com/color/48/react-native.png" },
