@@ -2,7 +2,7 @@ import { link } from "framer-motion/client";
 
 export const portfolioData = {
   name: "Subikhyat Sourav",
-  cv: "2026JANSUBIKHYAT.docx", // Place your CV DOCX in the public folder
+  cv: ".docx", // Place your CV DOCX in the public folder
   tagline: "Crafting Digital Experiences with Precision and Passion",
   bio: "I'm a full-stack developer with a keen eye for design and a passion for building intuitive, high-performance web applications. With expertise in modern JavaScript frameworks, backend technologies, and cloud platforms, I transform complex ideas into elegant, scalable solutions. My goal is to create impactful digital products that not only look stunning but also deliver exceptional user experiences.",
   githubUsername: "Subikhyat1996", // Your GitHub username
