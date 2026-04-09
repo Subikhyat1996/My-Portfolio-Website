@@ -30,7 +30,7 @@ export const portfolioData = {
     email: "codersubi@gmail.com",
     phone: "+91 9653440643",
     linkedin: "https://www.linkedin.com/in/subikhyat-sourav-379203201",
-    github: "https://github.com/Subikhyat1996?tab=repositories",
+    github: "",
     twitter: "codersubi",
   }
 };
